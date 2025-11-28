@@ -1,0 +1,1 @@
+UI Elements placeholder. Create Canvas, Buttons, and Text in Unity based on the activity requirements.
